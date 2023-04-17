@@ -10,6 +10,10 @@ Learning Dynamics with PyTorch
 ![](images/3_1.png)
 ![](images/3_2.png)
 
+# Van der Pol oscillator
+
+![](images/4.png)
+
 ## Support me
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/mrtkp9993)
