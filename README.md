@@ -10,6 +10,10 @@ Learning Dynamics with PyTorch
 ![](images/3_1.png)
 ![](images/3_2.png)
 
+### Lorenz 63 with noise
+
+![](images/5.png)
+
 # Van der Pol oscillator
 
 ![](images/4.png)
